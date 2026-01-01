@@ -19,11 +19,11 @@ Complete Python for DevOps | Zero to Hero Course with Practical Sessions. Keep L
 - Why Python for DevOps (automation, system tasks, cloud)
 - Installing Python, pip, virtual environments
 - IDE setup (VS Code / PyCharm)
-- Basic syntax, variables, and data types
 - Project: Hello World Program
 ---
 
 ## **Module 2: Control Flow, Functions & Core Logic**
+- Basic syntax, variables, and data types
 - Conditional statements (if, else, elif)
 - Loops (for, while)
 - Functions and lambda expressions
