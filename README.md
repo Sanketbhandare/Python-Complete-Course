@@ -59,7 +59,6 @@ Complete Python for DevOps | Zero to Hero Course with Practical Sessions. Keep L
 ## **Module 6: DevOps Automation with Python**
 - SSH automation using paramiko
 - Docker automation using Python
-- Basic security practices (API keys, secrets)
 - Putting everything together in real workflows
 - **Project**: Build an end-to-end DevOps automation tool that:
   - Connects to a remote server 
