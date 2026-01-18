@@ -1,3 +1,5 @@
+![Python Zero to Hero Complete course](./Module-1/poster_python.png)
+
 # Complete Python Zero to Hero Course
 
 Complete Python for DevOps | Zero to Hero Course with Practical Sessions. Keep Learning!
