@@ -1,0 +1,8 @@
+Module 2: Control Flow, Functions & Core Logic
+
+1. Basic syntax, variables, and data types | Completed
+2. Conditional statements (if, else, elif)  | Completed
+3. Loops (for, while)                       | Completed
+4. Functions and lambda expressions         | Completed
+5. Writing reusable and modular code        | Completed
+6. Project: Create a Calculator             | Completed

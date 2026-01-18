@@ -1,0 +1,11 @@
+Module 4: File, OS & Error Handling
+
+1. Reading/writing files                            | Completed
+    A. text
+    B. CSV
+    C. JSON
+2. Directory and file management (os, shutil)       | Completed
+3. Exception handling (try, except, finally)        | Completed     
+4. Logging and basic debugging                      | Completed
+5. Project: Develop a backup automation script      | Completed
+   with error handling and logging. 

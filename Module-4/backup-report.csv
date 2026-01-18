@@ -1,0 +1,4 @@
+filename,status
+app.log,Success
+db.log,Failed
+config.log,Success

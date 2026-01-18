@@ -1,0 +1,19 @@
+Module 1: Python Fundamentals for DevOps
+
+Why Python for DevOps (automation, system tasks, cloud)                 |   Completed
+    1. automation
+    2. system & OS tasks
+    3. Cloud & DevOps tools
+        - Docker & Kubernetes
+        - Azure, AWS, GCP Libraries & Easy to connect
+        - CI / CD pipelines to build & deploy your application
+    4. Easy to learn
+
+Installing Python, pip, virtual environments                            |   Completed
+
+    - virtual environments - provide isolation if you're working on diff projects
+    - avoid version conflicts 
+
+IDE setup (VSCode / PyCharm)                                            |   Completed
+
+Project: Hello World Program                                            |   Completed

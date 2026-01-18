@@ -1,0 +1,7 @@
+Module 5: Automation, Shell & APIs
+1. Automation concepts for DevOps                   | Completed
+2. Running shell commands with subprocess           | Completed
+3. Scheduling tasks (cron / schedule)               | Completed
+4. Working with REST APIs using requests            | Completed
+5. Project: Create an automation script that pulls  | Completed 
+   data from an API and triggers system tasks   

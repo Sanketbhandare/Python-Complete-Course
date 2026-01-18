@@ -1,0 +1,8 @@
+Module 3: Python Data Structures
+---------------------------------------
+1. Lists, tuples, sets, and dictionaries            | Completed
+2. Common operations and methods                    | Completed
+3. List comprehensions for efficiency               | Completed
+4. Data handling for automation tasks               | Completed
+5. Project: Build a log analyzer that parses data & | Completed
+  generates summaries using Python data structures.

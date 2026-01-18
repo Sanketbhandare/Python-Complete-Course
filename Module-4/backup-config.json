@@ -1,0 +1,10 @@
+{
+    "source_dir": "data",
+    "backup_dir": "backup",
+    "runs": [
+        {
+            "time": "03/01/2026, 16:26:22",
+            "status": "Success"
+        }
+    ]
+}

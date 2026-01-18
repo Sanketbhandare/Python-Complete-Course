@@ -1,0 +1,32 @@
+2026-01-03 17:01:06,530 - INFO - Backup has been started
+2026-01-03 17:01:06,530 - ERROR - Source dir not found
+Traceback (most recent call last):
+  File "D:\Sanket\Youtube\Python\Python-Complete-Course\Module-4\logger.py", line 25, in <module>
+    for file_name in os.listdir(source_dir):
+                     ~~~~~~~~~~^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'data'
+2026-01-03 17:01:06,536 - ERROR - File Backup Failed.
+2026-01-03 17:02:05,548 - INFO - Backup has been started
+2026-01-03 17:02:05,549 - INFO - File copied to backup directory
+2026-01-03 17:02:05,549 - INFO - File copied to backup directory
+2026-01-03 17:02:05,550 - INFO - File copied to backup directory
+2026-01-03 17:02:05,551 - INFO - File copied to backup directory
+2026-01-03 17:02:05,551 - INFO - File copied to backup directory
+2026-01-03 17:02:05,552 - INFO - File copied to backup directory
+2026-01-03 17:02:05,552 - INFO - File copied to backup directory
+2026-01-03 17:02:05,552 - INFO - File copied to backup directory
+2026-01-03 17:02:05,553 - INFO - File copied to backup directory
+2026-01-03 17:02:05,553 - INFO - File copied to backup directory
+2026-01-03 17:02:05,553 - INFO - File Backup done successfully.
+2026-01-03 17:03:04,868 - INFO - Backup has been started
+2026-01-03 17:03:04,869 - INFO - File data\1 has been copied to backup directory at backup\1
+2026-01-03 17:03:04,869 - INFO - File data\10 has been copied to backup directory at backup\10
+2026-01-03 17:03:04,870 - INFO - File data\2 has been copied to backup directory at backup\2
+2026-01-03 17:03:04,870 - INFO - File data\3 has been copied to backup directory at backup\3
+2026-01-03 17:03:04,870 - INFO - File data\4 has been copied to backup directory at backup\4
+2026-01-03 17:03:04,871 - INFO - File data\5 has been copied to backup directory at backup\5
+2026-01-03 17:03:04,871 - INFO - File data\6 has been copied to backup directory at backup\6
+2026-01-03 17:03:04,872 - INFO - File data\7 has been copied to backup directory at backup\7
+2026-01-03 17:03:04,872 - INFO - File data\8 has been copied to backup directory at backup\8
+2026-01-03 17:03:04,873 - INFO - File data\9 has been copied to backup directory at backup\9
+2026-01-03 17:03:04,873 - INFO - File Backup done successfully.
