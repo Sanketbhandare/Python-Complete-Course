@@ -67,5 +67,5 @@ Complete Python for DevOps | Zero to Hero Course with Practical Sessions. Keep L
 - **Project**: Build an end-to-end DevOps automation tool that:
   - Connects to a remote server 
   - Manages Docker containers
-- Youtube Video: **To be uploaded**.
+- Youtube Video: [Module 6: DevOps Automation with Python](https://youtu.be/f3zJPzZPYlA?si=GNxCq0GG1xXBr5Lu)
 ---
